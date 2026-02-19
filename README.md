@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-    <a href="#Problem Statement">Problem Statement</a> •
+    <a href="#Problem-Statement">Problem Statement</a> •
     <a href="#Dataset">Dataset</a> •
     <a href="#EDA">EDA</a> •
-    <a href="#Data Cleaning & Transformation">Data Cleaning & Transformation</a> •
-    <a href="#Data Visualisation">Data Visualisation</a> •
-    <a href="#Executive Summary">Executive Summary</a> •
+    <a href="#Data-Cleaning--Transformation">Data Cleaning & Transformation</a> •
+    <a href="#Data-Visualisation">Data Visualisation</a> •
+    <a href="#Executive-Summary">Executive Summary</a> •
     <a href="#Recommendations">Recommendations</a> •
     <a href="#Extensions">Extensions</a>
 </p>
