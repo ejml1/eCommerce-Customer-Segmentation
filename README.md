@@ -1,6 +1,23 @@
 ## eCommerce Customer Segmentation
 
-<img src="images/eCommerce_banner.png">
+![Static Badge](https://img.shields.io/badge/SQL-Green)
+![Static Badge](https://img.shields.io/badge/Tableau-2025.3.2-Green)
+
+<p align ="center">
+    <img src="images/eCommerce_banner.png">
+</p>
+
+<p align="center">
+    <a href="#Problem Statement">Problem Statement</a> •
+    <a href="#Dataset">Dataset</a> •
+    <a href="#EDA">EDA</a> •
+    <a href="#Data Cleaning & Transformation">Data Cleaning & Transformation</a> •
+    <a href="#Data Visualisation">Data Visualisation</a> •
+    <a href="#Executive Summary">Executive Summary</a> •
+    <a href="#Recommendations">Recommendations</a> •
+    <a href="#Extensions">Extensions</a>
+</p>
+
 
 ## Problem Statement
 
@@ -82,7 +99,6 @@ A dashboard on Tableau was created to visualise the data. [Link to live dashboar
 <img src="images/tableau_dashboard.jpg">
 
 ## Executive Summary
-
 - In 2020, the website has driven over 234,474 unique customers who have collectively purchased a total of 403,245 times
 and spent $118,372,962.
 - The top 20 percentile of highest paying customers (Monetary score of 5), on average, spent \$1,719. This is 3.5x more than the
@@ -125,7 +141,6 @@ By carefully measuring metrics such as conversion rates, customer reactivation, 
 we can draw insights regarding the long-term value these strategies bring, ensuring that our approach not only engages customers effectively but also aligns with the profitability goals of the website.
 
 ## Extensions
-
 To enhance this project further, implementing clustering techniques using Python can be a valuable 
 extension. By applying algorithms such as K-Means, more nuanced customer 
 segments can be created beyond the existing RFM scores. These techniques will allow patterns and group customers to be identified
