@@ -78,7 +78,7 @@ The transformed dataset contains the following fields:
 
 - `user`: Corresponds to `user_id`
 - `last_purchase`: The date in yyyy-MM-dd format of `user`'s last purchase
-- `num_purchase`: The total times the user has ordered from the website
+- `num_purchase`: The total number of times the user has ordered from the website
 - `total_spend`: The total amount ($) the user has spent on the website
 - `recency_percentile`: Score out of 5 based on how recent the `user` has purchased from the website
 - `frequency_percentile`: Score out of 5 based on how many times the `user` has purchased from the website
@@ -86,7 +86,7 @@ The transformed dataset contains the following fields:
 
 Data cleaning summary:
 
-- Only purchase from the year 2020 were included to avoid skewing the recency percentile scores
+- Only purchases from the year 2020 were included to avoid skewing the recency percentile scores
 - The null `price` and `user_id` values that were misplaced in the `category_code` and `brand` fields were
 corrected
 - Empty string `user_id`s were not included as they could not be assigned scores
@@ -94,7 +94,7 @@ corrected
 
 ## Data Visualisation
 
-A dashboard on Tableau was created to visualise the data. [Link to live dashboard](https://public.tableau.com/app/profile/ethan.li1866/viz/eCommerceSegmentation/Dashboard1?publish=yes&showOnboarding=true)
+A dashboard on Tableau was created to visualise the data. [Link to live dashboard](https://public.tableau.com/app/profile/ethan.li1866/viz/eCommerceSegmentation/eCommerceSegmentation)
 
 <img src="images/tableau_dashboard.jpg">
 
