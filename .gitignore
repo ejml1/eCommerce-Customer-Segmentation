@@ -1,0 +1,15 @@
+# Prerequisites: ignore environment variables and secrets
+.env
+*.key
+
+# Dependency directories
+node_modules/
+venv/
+bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
